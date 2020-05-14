@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureServiceBusConnection": "STRING CONEXÃO SERVICE BUS",
+    "DBAcoesEndpointUri": "ENDPOINT COSMOS DB",
+    "DBAcoesEndpointPrimaryKey": "PRIMARY KEY COSMOS DB",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
